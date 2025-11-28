@@ -1,0 +1,12 @@
+# Ignore Eclipse output folder
+bin/
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore temporary files
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
