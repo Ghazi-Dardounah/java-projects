@@ -1,36 +1,23 @@
-This repository contains my Java practice projects and assignments.
-Each folder includes different exercises, OOP tasks, or small applications I created while learning Java.
+# 🚀 Java Practice & Data Structures Portfolio
 
-📂 Included Projects
+Welcome to my repository! This is where I store my Java practice projects, university assignments, and data structures implementation.
 
-Some of the projects included in this repository:
+## 📂 What's Inside?
 
-LibrarySimulator
+### 🧠 Data Structures (Built from scratch)
+* **Singly LinkedList:** Built a custom linked list for integers with a tail pointer.
+* **Object LinkedList:** A student-management list that handles Student objects and includes a secure method to delete students by ID.
+* **Generic LinkedList:** Converted the list into a generic class (`<T>`) to make it reusable for any data type using `.equals()` for comparison.
 
-UnitConverter
+### 📦 Java & OOP Basics
+A collection of small projects and lab tasks I built while mastering OOP concepts (Inheritance, Polymorphism, Encapsulation, and Exception Handling):
+* **LibrarySimulator**
+* **UnitConverter**
+* **Lab Exercises:** (`scanner`, `Slide`, `raining`, `Try`, and others).
 
-Review
+## 🛠️ Technologies Used
+* Java (SE)
+* Object-Oriented Programming (OOP)
+* Eclipse IDE
 
-scanner
-
-Slide
-
-raining
-
-Try
-
-nobody
-
-three
-
-two
-
-And many other small projects
-
-🛠 Technologies Used
-
-Java
-
-Object-Oriented Programming (OOP)
-
-Eclipse IDE
+---
