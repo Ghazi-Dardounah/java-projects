@@ -1,0 +1,3 @@
+--- Text Analysis Report ---
+Total Lines: 3
+Total Words: 21
